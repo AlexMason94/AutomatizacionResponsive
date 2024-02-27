@@ -71,7 +71,7 @@ def actualizar_kml_con_datos(archivo_kml_existente, datos_postes, archivo_kml_sa
                 if numero_poste in datos_postes:
                     longitudes = datos_postes[numero_poste]
                     if '/' in longitudes:  # Presencia de múltiples longitudes
-                        nombre_poste_actualizado = f"{nombre_poste_original} / {longitudes}"
+                        nombre_poste_actualizado = f"{nombre_poste_original}/{longitudes}"
                     else:  # Solo una longitud
                         nombre_poste_actualizado = f"{nombre_poste_original} {longitudes}"  # Ajusta según necesidad
                     nombre_poste_element.text = nombre_poste_actualizado
@@ -92,7 +92,7 @@ def escribir_resultados_txt(datos_postes, datos_leidos, archivo_resultados):
         for numero_poste, nombre_poste in datos_leidos:
             if numero_poste in datos_postes:
                 # Construir el nombre completo con longitudes
-                nombre_completo = f"{nombre_poste} / {datos_postes[numero_poste]}"
+                nombre_completo = f"{nombre_poste}/{datos_postes[numero_poste]}"
                 archivo.write(f"{nombre_completo}\n")
 
 def escribir_lectura_kml_a_txt(datos_leidos, archivo_salida_txt):

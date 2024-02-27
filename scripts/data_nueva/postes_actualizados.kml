@@ -7705,7 +7705,7 @@
 			<ns0:visibility>0</ns0:visibility>
 			<ns0:open>1</ns0:open>
 			<ns0:Placemark>
-				<ns0:name>PC-618 ENDE 2T-Rc / 325-313.0 / 1835-1847.0</ns0:name>
+				<ns0:name>PC-618 ENDE 2T-Rc / 325-313.0/1835-1847.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle302</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -8007,7 +8007,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-28 ENDE T-Td-Rc / 2068-2044 / 4-16</ns0:name>
+				<ns0:name>PC-28 ENDE T-Td-Rc / 2068-2044/4-16</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle150</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -8715,7 +8715,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-757 ENDE D-Rc / 3160-3136.0 / 2870-2882.0</ns0:name>
+				<ns0:name>PMa-757 ENDE D-Rc / 3160-3136.0/2870-2882.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle812</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -9060,7 +9060,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-540 ENDE T-Td / , / 1591,</ns0:name>
+				<ns0:name>PMa-540 ENDE T-Td / ,/1591,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle90</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -9660,7 +9660,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-754 ENDE Dd / 3278, / ,</ns0:name>
+				<ns0:name>PMa-754 ENDE Dd / 3278,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle331</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -10720,7 +10720,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-314 ENDE Dd / 2132, / ,</ns0:name>
+				<ns0:name>PC-314 ENDE Dd / 2132,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -10755,7 +10755,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-558 ENDE D-Td / 916, / ,</ns0:name>
+				<ns0:name>PC-558 ENDE D-Td / 916,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle90</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -12498,7 +12498,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-630 ENDE D-DEV_FO / 1415, / 756,</ns0:name>
+				<ns0:name>PC-630 ENDE D-DEV_FO / 1415,/756,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1501</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -12532,7 +12532,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-629 ENDE D-Rc-T / 1477-1453.0 / 700-716.0</ns0:name>
+				<ns0:name>PC-629 ENDE D-Rc-T / 1477-1453.0/700-716.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle10100</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -13934,7 +13934,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-695 ENDE D-Td / 694, / ,</ns0:name>
+				<ns0:name>PC-695 ENDE D-Td / 694,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle2311</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -14276,7 +14276,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-805 ENDE T-Td-Rc-T / 525-501.0 / 1-12.0</ns0:name>
+				<ns0:name>PC-805 ENDE T-Td-Rc-T / 525-501.0/1-12.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1301</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -14448,7 +14448,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-804 ENDE Dd / , / 46,</ns0:name>
+				<ns0:name>PC-804 ENDE Dd / ,/46,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle9140</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -14727,7 +14727,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-694 ENDE D-Td-DEV_FO / 669, / 205,</ns0:name>
+				<ns0:name>PC-694 ENDE D-Td-DEV_FO / 669,/205,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle148</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -14762,7 +14762,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-693 ENDE D-Rc-T / 629-605.0 / 165-153.0</ns0:name>
+				<ns0:name>PC-693 ENDE D-Rc-T / 629-605.0/165-153.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1114</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -15950,7 +15950,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-755 ENDE D DEV_FO / 3240, / 2959,</ns0:name>
+				<ns0:name>PMa-755 ENDE D DEV_FO / 3240,/2959,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle9140</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -15984,7 +15984,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-756 ENDE D DEV_FO / 3200, / 2920,</ns0:name>
+				<ns0:name>PMa-756 ENDE D DEV_FO / 3200,/2920,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle331</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16122,7 +16122,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-739 ENDE Td-T / , / 120,</ns0:name>
+				<ns0:name>PMa-739 ENDE Td-T / ,/120,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16157,7 +16157,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-738 ENDE T-Td-Rc-T / 3797-3773.0 / 177-165.0</ns0:name>
+				<ns0:name>PMa-738 ENDE T-Td-Rc-T / 3797-3773.0/177-165.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1301</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16261,7 +16261,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-685 ENDE T-Td / , / 3950,</ns0:name>
+				<ns0:name>PC-685 ENDE T-Td / ,/3950,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle44</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16294,7 +16294,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-683 ENDE T-Td-Rc-T / , / ,</ns0:name>
+				<ns0:name>PC-683 ENDE T-Td-Rc-T / ,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle9140</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16706,7 +16706,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-564 ENDE D-Td / , / ,</ns0:name>
+				<ns0:name>PC-564 ENDE D-Td / ,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle9140</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -16741,7 +16741,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-563 ENDE D-Rc-T / 820-796.0 / ,</ns0:name>
+				<ns0:name>PC-563 ENDE D-Rc-T / 820-796.0/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle241</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -17393,7 +17393,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-557 ENDE D-Td-Rc-DEV_FO / 977-953.0 / 2152-2140.0</ns0:name>
+				<ns0:name>PC-557 ENDE D-Td-Rc-DEV_FO / 977-953.0/2152-2140.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle90</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -17879,7 +17879,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-541 ENDE T-Td-Rc / 1532-1508.0 / 1645-1630.0</ns0:name>
+				<ns0:name>PMa-541 ENDE T-Td-Rc / 1532-1508.0/1645-1630.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle90</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18326,7 +18326,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-529 ENDE T-Td / , / 1384,</ns0:name>
+				<ns0:name>PC-529 ENDE T-Td / ,/1384,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18396,7 +18396,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-528 ENDE T-Td / 1870, / 1425,</ns0:name>
+				<ns0:name>PC-528 ENDE T-Td / 1870,/1425,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18430,7 +18430,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-527 ENDE D-DEV_FO / 1896, / 1451,</ns0:name>
+				<ns0:name>PC-527 ENDE D-DEV_FO / 1896,/1451,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18465,7 +18465,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-526 ENDE D-T-Rc-DEV_FO / 1956-1932.0 / 1500-1488.0</ns0:name>
+				<ns0:name>PC-526 ENDE D-T-Rc-DEV_FO / 1956-1932.0/1500-1488.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle220</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18604,7 +18604,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-521 ENDE T-Td / 2198, / ,</ns0:name>
+				<ns0:name>PC-521 ENDE T-Td / 2198,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle17</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18673,7 +18673,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-617 ENDE D / 364, / 1886,</ns0:name>
+				<ns0:name>PC-617 ENDE D / 364,/1886,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle302</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18707,7 +18707,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-616 ENDE D-DEV_FO / 403, / 1925,</ns0:name>
+				<ns0:name>PC-616 ENDE D-DEV_FO / 403,/1925,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -18809,7 +18809,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-615 ENDE D-T-DEV_FO / 446, / 1968,</ns0:name>
+				<ns0:name>PC-615 ENDE D-T-DEV_FO / 446,/1968,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C0000200</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19145,7 +19145,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-520 ENDE D-Td-DEV_FO / 2229, / 959,</ns0:name>
+				<ns0:name>PC-520 ENDE D-Td-DEV_FO / 2229,/959,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1412</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19179,7 +19179,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-519 ENDE D-DEV_FO / 2262, / 992,</ns0:name>
+				<ns0:name>PC-519 ENDE D-DEV_FO / 2262,/992,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19212,7 +19212,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-518 ENDE D-Rc-T / 2350-2326.0 / 1068-1056.0</ns0:name>
+				<ns0:name>PC-518 ENDE D-Rc-T / 2350-2326.0/1068-1056.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19413,7 +19413,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-587 ENDE D-T-Rc / 753-729.0 / 590-578.0</ns0:name>
+				<ns0:name>PC-587 ENDE D-T-Rc / 753-729.0/590-578.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle800</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19808,7 +19808,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-586 ENDE T-Td / 798, / 533,</ns0:name>
+				<ns0:name>PC-586 ENDE T-Td / 798,/533,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle800</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -19972,7 +19972,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-515 ENDE D-Rc / 2498-2474.0 / 1040-1028.0</ns0:name>
+				<ns0:name>PC-515 ENDE D-Rc / 2498-2474.0/1040-1028.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20475,7 +20475,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-497 ENDE 2T / 3190, / 3008,</ns0:name>
+				<ns0:name>PC-497 ENDE 2T / 3190,/3008,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C0000410</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20508,7 +20508,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-498 ENDE D / 3154, / 3044,</ns0:name>
+				<ns0:name>PC-498 ENDE D / 3154,/3044,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle261</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20886,7 +20886,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-574 ENDE T-Rc / 1835-1823.0 / 412-400.0</ns0:name>
+				<ns0:name>PC-574 ENDE T-Rc / 1835-1823.0/412-400.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20921,7 +20921,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-485 ENDE T-Td / , / 1720, / 359,</ns0:name>
+				<ns0:name>PC-485 ENDE T-Td / ,/1720,/359,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20955,7 +20955,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-483 ENDE T-Td-DEV_FO / 3660, / 1742,</ns0:name>
+				<ns0:name>PC-483 ENDE T-Td-DEV_FO / 3660,/1742,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle400</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -20988,7 +20988,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-482 ENDE D-DEV_FO / 3700, / 1720,</ns0:name>
+				<ns0:name>PC-482 ENDE D-DEV_FO / 3700,/1720,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -21022,7 +21022,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-481 ENDE D-Rc-T / 3768-3744.0 / 1658-1646.0</ns0:name>
+				<ns0:name>PC-481 ENDE D-Rc-T / 3768-3744.0/1658-1646.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle421</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -21941,7 +21941,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-451 ENDE D-Rc-Td / 1640-1616.0 / 843-855.0</ns0:name>
+				<ns0:name>PC-451 ENDE D-Rc-Td / 1640-1616.0/843-855.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1003</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24005,7 +24005,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-273 ENDE T-Td-Rc / 2537-2513.0 / 4008-3996.0</ns0:name>
+				<ns0:name>PC-273 ENDE T-Td-Rc / 2537-2513.0/4008-3996.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle155</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24520,7 +24520,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-379 ENDE Td-T / , / 544,</ns0:name>
+				<ns0:name>PC-379 ENDE Td-T / ,/544,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#POLE-C000041000</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24720,7 +24720,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-382 ENDE D-Rc-T / 292-316.0 / 424-412.0</ns0:name>
+				<ns0:name>PC-382 ENDE D-Rc-T / 292-316.0/424-412.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle3101</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24754,7 +24754,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-381 ENDE D-DEV_FO / 252, / 464,</ns0:name>
+				<ns0:name>PC-381 ENDE D-DEV_FO / 252,/464,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle2301</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24788,7 +24788,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-380 ENDE T-Td / , / 504,</ns0:name>
+				<ns0:name>PC-380 ENDE T-Td / ,/504,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle158</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24891,7 +24891,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-260 ENDE D-Rc-T / 2040-2016.0 / 2-14.0</ns0:name>
+				<ns0:name>PC-260 ENDE D-Rc-T / 2040-2016.0/2-14.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle155</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24925,7 +24925,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-259 ENDE D-DEV_FO / 1975, / 55,</ns0:name>
+				<ns0:name>PC-259 ENDE D-DEV_FO / 1975,/55,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1100</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -24960,7 +24960,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-258 ENDE T-Td-DEV_FO / 1936, / 94,</ns0:name>
+				<ns0:name>PC-258 ENDE T-Td-DEV_FO / 1936,/94,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle155</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -25874,7 +25874,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-351 ENDE Td / 3606, / ,</ns0:name>
+				<ns0:name>PC-351 ENDE Td / 3606,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle318</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -26113,7 +26113,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-344 ENDE T-Td / , / 3892,</ns0:name>
+				<ns0:name>PC-344 ENDE T-Td / ,/3892,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle319</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -26148,7 +26148,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-247 ENDE T-Td / 1616, / 3934,</ns0:name>
+				<ns0:name>PC-247 ENDE T-Td / 1616,/3934,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle157</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -26182,7 +26182,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-246 ENDE T-D-Rc / 1577-1553.0 / 4007-3995.0</ns0:name>
+				<ns0:name>PC-246 ENDE T-D-Rc / 1577-1553.0/4007-3995.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle71</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27214,7 +27214,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-316 ENDE T-Td-Rc-T / 2211-2235.0 / 1-12.0</ns0:name>
+				<ns0:name>PC-316 ENDE T-Td-Rc-T / 2211-2235.0/1-12.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle153</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27248,7 +27248,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-315 ENDE T-Td / 2174, / 49,</ns0:name>
+				<ns0:name>PC-315 ENDE T-Td / 2174,/49,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle153</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27484,7 +27484,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-313 ENDE T-Td / 2092, / 1057,</ns0:name>
+				<ns0:name>PC-313 ENDE T-Td / 2092,/1057,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle153</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27517,7 +27517,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-312 ENDE D-DEV_FO / 2048, / 1100,</ns0:name>
+				<ns0:name>PC-312 ENDE D-DEV_FO / 2048,/1100,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle153</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27550,7 +27550,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-311 ENDE D-DEV_FO / 2005, / 1144,</ns0:name>
+				<ns0:name>PC-311 ENDE D-DEV_FO / 2005,/1144,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle153</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27584,7 +27584,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-310 ENDE D-DEV_FO / 1965, / 1184,</ns0:name>
+				<ns0:name>PC-310 ENDE D-DEV_FO / 1965,/1184,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle17</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -27618,7 +27618,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-309 ENDE T-D-Rc / 1899-1923.0 / 1238-1226.0</ns0:name>
+				<ns0:name>PC-309 ENDE T-D-Rc / 1899-1923.0/1238-1226.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle70</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28273,7 +28273,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-229 ENDE T+Td / 1026, / ,</ns0:name>
+				<ns0:name>PC-229 ENDE T+Td / 1026,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle155</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28307,7 +28307,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-228 ENDE D-DEV_FO / 981, / 1090,</ns0:name>
+				<ns0:name>PC-228 ENDE D-DEV_FO / 981,/1090,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle13</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28340,7 +28340,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-227 ENDE T-Td-Rc-T / 943-919.0 / 1040-1052.0</ns0:name>
+				<ns0:name>PC-227 ENDE T-Td-Rc-T / 943-919.0/1040-1052.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28501,7 +28501,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-221 ENDE Dd / 756, / ,</ns0:name>
+				<ns0:name>PC-221 ENDE Dd / 756,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle80</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28696,7 +28696,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-220 ENDE D-Td / , / 107,</ns0:name>
+				<ns0:name>PC-220 ENDE D-Td / ,/107,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -28726,7 +28726,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PMa-219 ENDE D-Rc-DEV_FO / 674-650.0 / 68,</ns0:name>
+				<ns0:name>PMa-219 ENDE D-Rc-DEV_FO / 674-650.0/68,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle80</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -29835,7 +29835,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-178 ENDE D-Rc-Td / 3721-3755.0 / 444,</ns0:name>
+				<ns0:name>PC-178 ENDE D-Rc-Td / 3721-3755.0/444,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -29869,7 +29869,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-177 ENDE D-Td / 3686, / ,</ns0:name>
+				<ns0:name>PC-177 ENDE D-Td / 3686,/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -29903,7 +29903,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-176 ENDE D-Rc-Td / 3615-3639.0 / 2799-2787.0</ns0:name>
+				<ns0:name>PC-176 ENDE D-Rc-Td / 3615-3639.0/2799-2787.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -29971,7 +29971,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-174 ENDE D-Rc-Td / 3494-3518.0 / ,</ns0:name>
+				<ns0:name>PC-174 ENDE D-Rc-Td / 3494-3518.0/,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -30137,7 +30137,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-173 ENDE D-Td-DEV_FO / 3449, / 259,</ns0:name>
+				<ns0:name>PC-173 ENDE D-Td-DEV_FO / 3449,/259,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -30170,7 +30170,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-172 ENDE D-Rc-T / 3375-3399.0 / 210-198.0</ns0:name>
+				<ns0:name>PC-172 ENDE D-Rc-T / 3375-3399.0/210-198.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32275,7 +32275,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-52 ENDE D-DEV_FO / 3309 / 1085,</ns0:name>
+				<ns0:name>PC-52 ENDE D-DEV_FO / 3309/1085,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1580</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32308,7 +32308,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-51 ENDE D-Rc-T-DEV_FO / 3278-3254 / 1054-1042.0</ns0:name>
+				<ns0:name>PC-51 ENDE D-Rc-T-DEV_FO / 3278-3254/1054-1042.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle100</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32605,7 +32605,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-42 ENDE Dd-Rc-T-DEV / 2710-2686 / 2107-2095</ns0:name>
+				<ns0:name>PC-42 ENDE Dd-Rc-T-DEV / 2710-2686/2107-2095</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle1580</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32903,7 +32903,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-110 ENDE D-Td-Rc / 3661-3637 / 225-213.0</ns0:name>
+				<ns0:name>PC-110 ENDE D-Td-Rc / 3661-3637/225-213.0</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32937,7 +32937,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-108 ENDE D-Td-DEV_FO / 3619 / 195,</ns0:name>
+				<ns0:name>PC-108 ENDE D-Td-DEV_FO / 3619/195,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -32970,7 +32970,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-107 ENDE D-DEV_FO / 3589 / 164,</ns0:name>
+				<ns0:name>PC-107 ENDE D-DEV_FO / 3589/164,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -33104,7 +33104,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-106 ENDE T-Td-DEV_FO / 3563 / 139,</ns0:name>
+				<ns0:name>PC-106 ENDE T-Td-DEV_FO / 3563/139,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -33302,7 +33302,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-100 ENDE T-Td / 3249 / 3417,</ns0:name>
+				<ns0:name>PC-100 ENDE T-Td / 3249/3417,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -33335,7 +33335,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-101 ENDE D / 3284 / 3382,</ns0:name>
+				<ns0:name>PC-101 ENDE D / 3284/3382,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle156</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -34497,7 +34497,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-27 ENDE T-Td /  / 43</ns0:name>
+				<ns0:name>PC-27 ENDE T-Td / /43</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle150</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -34700,7 +34700,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-21 ENDE T-Td /  / 68</ns0:name>
+				<ns0:name>PC-21 ENDE T-Td / /68</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle150</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -34734,7 +34734,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-19 ENDE T-Td-Rc / 1820-1796 / 120-108</ns0:name>
+				<ns0:name>PC-19 ENDE T-Td-Rc / 1820-1796/120-108</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:styleUrl>#msn_placemark_circle150</ns0:styleUrl>
 				<ns0:ExtendedData>
@@ -35486,7 +35486,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>PC-2 ENTEL T-Td / 1160 / 3921,</ns0:name>
+				<ns0:name>PC-2 ENTEL T-Td / 1160/3921,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:Camera>
 					<ns0:longitude>-64.87203140238952</ns0:longitude>
@@ -35504,7 +35504,7 @@
 				</ns0:Point>
 			</ns0:Placemark>
 			<ns0:Placemark>
-				<ns0:name>P-1 PRFV ENTEL 2T_DEV-FO / 1112 / 274, / 3969,</ns0:name>
+				<ns0:name>P-1 PRFV ENTEL 2T_DEV-FO / 1112/274,/3969,</ns0:name>
 				<ns0:visibility>0</ns0:visibility>
 				<ns0:Camera>
 					<ns0:longitude>-64.87203140238952</ns0:longitude>
