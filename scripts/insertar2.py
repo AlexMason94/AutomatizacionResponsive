@@ -12,20 +12,20 @@ def normalizar_nombre_poste(nombre_poste):
 
 def leer_datos(archivo_datos):
     datos_postes = {}
-    with open(archivo_datos, 'r', encoding=('ISO-8859-1')) as archivo:
+    with open(archivo_datos, 'r', encoding='ISO-8859-1') as archivo:
         for linea in archivo:
-            # Asegurarse de que la línea tiene contenido relevante
-            partes = linea.strip().split(', ')
-            if partes[0] == '-' or partes[0] == '':
+            partes = linea.strip().split(',')
+            if partes[0].strip() == '' or partes[0].strip() == '':
                 continue
-            numero_poste = partes[0]
-            longitudes = [parte for parte in partes[1:] if parte != '-']
-            longitud_combinada = '-'.join(longitudes)
+            numero_poste = partes[0].strip()
+            longitudes = [parte.strip() for parte in partes[1:] if parte.strip() != '']
+            longitud_combinada = '-'.join(longitudes)  # Unir longitudes con ' / ' si hay más de una
             if numero_poste in datos_postes:
-                datos_postes[numero_poste] += f"/{longitud_combinada}"
+                datos_postes[numero_poste] += f" {longitud_combinada}" if longitud_combinada else ''
             else:
                 datos_postes[numero_poste] = longitud_combinada
     return datos_postes
+
 
 def leer_kml_y_extraer_datos(archivo_kml_existente):
     datos_leidos = []
@@ -70,10 +70,10 @@ def actualizar_kml_con_datos(archivo_kml_existente, datos_postes, archivo_kml_sa
                 # Verificar si el número de poste está en los datos y actualizar el nombre
                 if numero_poste in datos_postes:
                     longitudes = datos_postes[numero_poste]
-                    if '/' in longitudes:  # Presencia de múltiples longitudes
-                        nombre_poste_actualizado = f"{nombre_poste_original}/{longitudes}"
+                    if '' in longitudes:  # Presencia de múltiples longitudes
+                        nombre_poste_actualizado = f"{nombre_poste_original} {longitudes}"
                     else:  # Solo una longitud
-                        nombre_poste_actualizado = f"{nombre_poste_original}/{longitudes}"  # Ajusta según necesidad
+                        nombre_poste_actualizado = f"{nombre_poste_original} {longitudes}"  # Ajusta según necesidad
                     nombre_poste_element.text = nombre_poste_actualizado
                     #print(f"Actualizando {nombre_poste_original} con {longitudes}")
                 else:
@@ -92,7 +92,7 @@ def escribir_resultados_txt(datos_postes, datos_leidos, archivo_resultados):
         for numero_poste, nombre_poste in datos_leidos:
             if numero_poste in datos_postes:
                 # Construir el nombre completo con longitudes
-                nombre_completo = f"{nombre_poste}/{datos_postes[numero_poste]}"
+                nombre_completo = f"{nombre_poste} {datos_postes[numero_poste]}"
                 archivo.write(f"{nombre_completo}\n")
 
 def escribir_lectura_kml_a_txt(datos_leidos, archivo_salida_txt):
