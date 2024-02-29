@@ -18,7 +18,7 @@ def leer_datos(archivo_datos):
             if partes[0].strip() == '' or partes[0].strip() == '':
                 continue
             numero_poste = partes[0].strip()
-            longitudes = [parte.strip() for parte in partes[1:] if parte.strip() != '']
+            longitudes = [parte.strip() for parte in partes[1:] if parte.strip() != '-']
             longitud_combinada = '-'.join(longitudes)  # Unir longitudes con ' / ' si hay más de una
             if numero_poste in datos_postes:
                 datos_postes[numero_poste] += f" {longitud_combinada}" if longitud_combinada else ''
@@ -106,8 +106,8 @@ def escribir_lectura_kml_a_txt(datos_leidos, archivo_salida_txt):
 
 def main():
     archivo_datos = 'data_nueva/datos_postes_nuevos.txt'
-    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/01. Diseño Final ODN ALBORADA 23-2-24.kml'
-    archivo_kml_salida = 'data_nueva/postes_actualizados.kml'
+    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/01.Diseño Final ODN DOMSAT.kml'
+    archivo_kml_salida = 'data_nueva/postes_actualizados-DOMSAT.kml'
     archivo_resultados_txt = 'data_nueva/resultados_modificaciones.txt'
     archivo_lectura_txt = 'data_nueva/lectura_kml.txt'
     # Llamar a la función con el path del archivo de datos

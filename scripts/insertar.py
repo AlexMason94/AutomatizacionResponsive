@@ -106,7 +106,7 @@ def escribir_lectura_kml_a_txt(datos_leidos, archivo_salida_txt):
 
 def main():
     archivo_datos = 'data_nueva/datos_postes_nuevos.txt'
-    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/01. Diseño Final ODN ALBORADA 23-2-24.kml'
+    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/01. Diseño Final ODN ALBORADA 28-2-24.kml'
     archivo_kml_salida = 'data_nueva/postes_actualizados.kml'
     archivo_resultados_txt = 'data_nueva/resultados_modificaciones.txt'
     archivo_lectura_txt = 'data_nueva/lectura_kml.txt'
