@@ -8,7 +8,7 @@ if not os.path.exists(directorio_data):
     os.makedirs(directorio_data)
 
 # Ruta al archivo Excel
-archivo_excel = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/10. Formulario de control de postacion y ferreteria instalada ODN Domsat.xlsx'
+archivo_excel = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/Copia de 02.Planilla de tendido de postacion y ferreteria OLT Villa Busch 070224.xlsx'
 
 # Carga el archivo de Excel
 xls = pd.ExcelFile(archivo_excel)
