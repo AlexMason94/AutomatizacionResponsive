@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Postes eléctricos.kml</name>
+	<Schema name="C:/Users/USUARIO/AppData/Local/Microsoft/Windows/INetCache/IE/R532381H/Beni ALBORADA-hldKml-20231109 (1)[1].kml" id="POLE-C024">
+		<SimpleField type="string" name="Template ID"></SimpleField>
+		<SimpleField type="string" name="Existe Cruce de avenida?"></SimpleField>
+		<SimpleField type="string" name="Además(m)"></SimpleField>
+		<SimpleField type="string" name="Existe espacio suficiente para cable nuevo?"></SimpleField>
+		<SimpleField type="string" name="Full Name"></SimpleField>
+		<SimpleField type="string" name="Ancho de la acera (m)"></SimpleField>
+		<SimpleField type="string" name="Altura del piso al primer cable"></SimpleField>
+		<SimpleField type="string" name="Latitude"></SimpleField>
+		<SimpleField type="string" name="Cantidad de BAPs del cliente"></SimpleField>
+		<SimpleField type="string" name="Cantidad de BAPs en poste"></SimpleField>
+		<SimpleField type="string" name="Existe subida lateral del cliente?"></SimpleField>
+		<SimpleField type="string" name="Existe mufla de otro operador?"></SimpleField>
+		<SimpleField type="string" name="Life Status"></SimpleField>
+		<SimpleField type="string" name="Numero de poste"></SimpleField>
+		<SimpleField type="string" name="Factiblidad de cruce americano?"></SimpleField>
+		<SimpleField type="string" name="Distancia poste a construcción (m)"></SimpleField>
+		<SimpleField type="string" name="Material del poste"></SimpleField>
+		<SimpleField type="string" name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)"></SimpleField>
+		<SimpleField type="string" name="Existe avenida o calle?"></SimpleField>
+		<SimpleField type="string" name="Descripción"></SimpleField>
+		<SimpleField type="string" name="Status"></SimpleField>
+		<SimpleField type="string" name="Altura de poste (m)"></SimpleField>
+		<SimpleField type="string" name="Propietario del poste"></SimpleField>
+		<SimpleField type="string" name="Construction Status"></SimpleField>
+		<SimpleField type="string" name="Distancia poste a calle/avenida (m)"></SimpleField>
+		<SimpleField type="string" name="Longitude"></SimpleField>
+		<SimpleField type="string" name="Existe transformador?"></SimpleField>
+		<SimpleField type="string" name="Existe cruceta o raquetas?"></SimpleField>
+		<SimpleField type="string" name="Rienda para poste"></SimpleField>
+		<SimpleField type="string" name="Brazo de extension"></SimpleField>
+		<SimpleField type="string" name="Tipos de cables de energia en el poste"></SimpleField>
+		<SimpleField type="string" name="GIS ID"></SimpleField>
+		<SimpleField type="string" name="Estado del poste"></SimpleField>
+		<SimpleField type="string" name="Requerira cambio de nivel el nuevo cable?"></SimpleField>
+		<SimpleField type="string" name="Existe NAP o mufla del cliente?"></SimpleField>
+		<SimpleField type="string" name="El cable de energia es enchaquetado?"></SimpleField>
+		<SimpleField type="string" name="Existe espacio para instalar NAP, JC?"></SimpleField>
+	</Schema>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle161">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle82</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle370">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle260</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight241</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight5010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle5000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight50100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight3000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight00">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight191">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight241">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight27">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight3000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight5010">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight50100">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle00">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle210">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle2100">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle260">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle27">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle600">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle62">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle82">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Postes eléctricos</name>
+		<LookAt>
+			<longitude>-64.90136701552193</longitude>
+			<latitude>-14.82486752209184</latitude>
+			<altitude>0</altitude>
+			<heading>3.95197736073264</heading>
+			<tilt>28.12225082686652</tilt>
+			<range>226.794546735643</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>PC-10 ENDE D-Rc</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">No</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.823158961508</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B10</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901203829795</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717880371326095360</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90120382979499,-14.823158961508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-11 ENDE D-&quot;Transformador&quot;</name>
+			<styleUrl>#msn_placemark_circle161</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.823525214534</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B11</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901246074587</SimpleData>
+					<SimpleData name="Existe transformador?">Si</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717881455331381248</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">1 Nap</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90124607458699,-14.823525214534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-12 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.823785156882</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B12</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.90126049146</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717884017384230912</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90126049145999,-14.823785156882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-13 ENDE P</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.824073296526</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B13</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901294689625</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ninguno</SimpleData>
+					<SimpleData name="GIS ID">1717884941360041984</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901294689625,-14.824073296526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-14 ENDE D-&quot;Transformador&quot;</name>
+			<styleUrl>#msn_placemark_circle161</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.824392227566</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">Si</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B14</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.8</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.2</SimpleData>
+					<SimpleData name="Longitude">-64.901331905275</SimpleData>
+					<SimpleData name="Existe transformador?">Si</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717886040829726720</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">Si</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901331905275,-14.824392227566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-15 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.824924101613</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B14</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.9</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901378843933</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717888201324105728</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901378843933,-14.824924101613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-16 ENDE P</name>
+			<styleUrl>#msn_placemark_circle00</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.824924101613</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B14</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.9</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901378843933</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717888201324105728</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90139499999999,-14.825243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-17 ENDE D-Rc</name>
+			<styleUrl>#msn_placemark_circle00</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.825465049511</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">1 Mufla</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B15</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">3</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901421424001</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Media Tension</SimpleData>
+					<SimpleData name="GIS ID">1717890861154570240</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901421424001,-14.825465049511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-18 ENDE D-&quot;Transformador&quot;</name>
+			<styleUrl>#msn_placemark_circle161</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.826019933387</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B17</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.5</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901473727077</SimpleData>
+					<SimpleData name="Existe transformador?">Si</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717893567806050304</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">Si</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901473727077,-14.826019933387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-19 ENDE D</name>
+			<styleUrl>#msn_placemark_circle36</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.826420861634</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B18</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.5</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901500884443</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ninguno</SimpleData>
+					<SimpleData name="GIS ID">1717895621987405824</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901500884443,-14.826420861634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-2 ENDE D</name>
+			<styleUrl>#msn_placemark_circle600</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.821524103131</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B2</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida una via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.7</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901955518871</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717872383513202688</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90195551887101,-14.821524103131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-20 ENDE D</name>
+			<styleUrl>#msn_placemark_circle500</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.826701867732</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B20</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.5</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.8</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901531394571</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717896995743600640</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">Si</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90153139457099,-14.826701867732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-21 ENDE D</name>
+			<styleUrl>#msn_placemark_circle500</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.826944304368</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">1 Mufla</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B21</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901538435369</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717897614852231168</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">1 Nap</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">Si</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90153843536901,-14.826944304368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-22 ENDE D</name>
+			<styleUrl>#msn_placemark_circle500</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.827202297434</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B22</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.8</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.2</SimpleData>
+					<SimpleData name="Longitude">-64.901570621877</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717898853321150464</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901570621877,-14.827202297434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-23 ENDE P</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.827336479156</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B23</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.8</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">3</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.2</SimpleData>
+					<SimpleData name="Longitude">-64.90158336237</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Media Tension</SimpleData>
+					<SimpleData name="GIS ID">1717899331689910272</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90158336237,-14.827336479156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-24 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.827603872055</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">1 Mufla</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B24</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">3</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901608172804</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Media Tension</SimpleData>
+					<SimpleData name="GIS ID">1717899849673871360</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901608172804,-14.827603872055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-25 ENDE D</name>
+			<styleUrl>#msn_placemark_circle500</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.827819730277</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B25</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.8</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.4</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.2</SimpleData>
+					<SimpleData name="Longitude">-64.901623595505</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717900451044790272</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901623595505,-14.827819730277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-26 ENDE  P</name>
+			<styleUrl>#msn_placemark_circle0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.828059248118</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B26</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.8</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.3</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.2</SimpleData>
+					<SimpleData name="Longitude">-64.901641700416</SimpleData>
+					<SimpleData name="Existe transformador?">Si</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717901396050841600</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90164425582887,-14.82815375440743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-27 ENDE D-Rc</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.828498741891</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B27</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.9</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.4</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.1</SimpleData>
+					<SimpleData name="Longitude">-64.901678245514</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717901949753495552</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90167824551401,-14.828498741891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-28 ENDE  D-Rc</name>
+			<styleUrl>#msn_placemark_circle370</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.828945689593</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">2 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B28</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.4</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901717808097</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717902879827824640</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901717808097,-14.828945689593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-29 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.829181641318</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">2 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B29</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.4</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901732224971</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717903923081252864</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901732224971,-14.829181641318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-3 ENDE P</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.821555218409</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B3</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida una via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.7</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901628289371</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717873002944794624</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901628289371,-14.821555218409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-30 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">3</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.829427639906</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B30</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">3.5</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901762399822</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717904784389967872</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901762399822,-14.829427639906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-33 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.829716096519</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B31</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901781845837</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717911586687029248</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90178184583699,-14.829716096519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-32 ENDE T</name>
+			<styleUrl>#msn_placemark_circle370</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.829716096519</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B31</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901781845837</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717911586687029248</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90175342734516,-14.82954194724732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-31 ENDE T</name>
+			<styleUrl>#msn_placemark_circle370</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.829716096519</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B31</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901781845837</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717911586687029248</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90175127212987,-14.82952382501205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-34 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">No</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.830000015151</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">2 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Numero de poste">B32</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901796262711</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="GIS ID">1717912211596382208</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901796262711,-14.830000015151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-35 ENDE 2T &quot;Transformador&quot;</name>
+			<styleUrl>#msn_placemark_circle370</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.830336763206</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B34</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.2</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.3</SimpleData>
+					<SimpleData name="Longitude">-64.901824425905</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717913750201307136</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90182442590501,-14.830336763206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-36 ENDE P</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.830657304855</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">2 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B35</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.9</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901849571615</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">Requiere 60 cm</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717914615750463488</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901849571615,-14.830657304855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-37 ENDE  D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.83099632059</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">1 BAP</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B36</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.9</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.90189583972</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717915217150742528</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90189583972,-14.83099632059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-38 ENDE D-Rc</name>
+			<styleUrl>#msn_placemark_circle161</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.83125106801</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Numero de poste">B37</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.8</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901908915489</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="GIS ID">1717918617582047232</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901908915489,-14.83125106801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-39 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.831549893698</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Numero de poste">B38</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">1</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901942443102</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="GIS ID">1717919289517936640</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901942443102,-14.831549893698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-40 ENDE P</name>
+			<styleUrl>#msn_placemark_circle370</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.83182019773</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Numero de poste">B39</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.90196859464</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="GIS ID">1717919900749664256</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90196859464,-14.83182019773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-4 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">No</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.821580824002</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">3 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B4</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida una via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901392254978</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717873830883627008</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90139225497801,-14.821580824002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-41 ENDE D</name>
+			<styleUrl>#msn_placemark_circle0200</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832037996306</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">Ninguno</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B40</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2.2</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.3</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901988375931</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717921751729573888</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90198722474906,-14.83204965877005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-42 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832073323555</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">1 Mufla</SimpleData>
+					<SimpleData name="Numero de poste">B41</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">3</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.3</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.902020227164</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="GIS ID">1717922406644977664</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.902020227164,-14.832073323555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-43 ENDE  D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">3</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832122911554</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">+ 3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B42</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">3.5</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.8</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.902352150529</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717923916049158144</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.902352150529,-14.832122911554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-44 ENDE  D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832139764959</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">+ 3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B43</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2.3</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.7</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.902647528797</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717924562617896960</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.902647528797,-14.832139764959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMa-45 ENDE T-DEV_FO</name>
+			<styleUrl>#msn_placemark_circle161</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832148191749</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">+ 3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B44</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2.5</SimpleData>
+					<SimpleData name="Material del poste">Madera</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.3</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.903071317821</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">Existe</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717925184188583936</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">1 Nap</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.903071317821,-14.832148191749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-46 ENDE  T</name>
+			<styleUrl>#msn_placemark_circle36</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.832034107026</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B45</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida una via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.903271812945</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717925952945786880</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90327181294499,-14.832034107026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-5 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">1.5</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.821603512707</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">+ 3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B5</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida una via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901117999106</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717874506040741888</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.90111799910601,-14.821603512707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-6 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Ninguno</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.821646620333</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">2 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B6</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">3</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.7</SimpleData>
+					<SimpleData name="Descripción">Poste fuera de la acera</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Longitude">-64.901020433753</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717875034120392704</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901020433753,-14.821646620333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-7 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.822150951502</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">+ 3 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">5 o + BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B7</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">1.5</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.5</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0.5</SimpleData>
+					<SimpleData name="Longitude">-64.901088494807</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Cruceta</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717876960853626880</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">1 Nap</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">No</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901088494807,-14.822150951502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-8 ENDE P</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">No</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.822513641025</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B8</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">9</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901128392666</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Baja tension</SimpleData>
+					<SimpleData name="GIS ID">1717878292557729792</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">No</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901128392666,-14.822513641025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC-9 ENDE D</name>
+			<styleUrl>#msn_placemark_circle5000</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#POLE-C024">
+					<SimpleData name="Existe Cruce de avenida?">Aereo</SimpleData>
+					<SimpleData name="Existe espacio suficiente para cable nuevo?">Si</SimpleData>
+					<SimpleData name="Ancho de la acera (m)">2</SimpleData>
+					<SimpleData name="Altura del piso al primer cable">entre 5 - 6 m</SimpleData>
+					<SimpleData name="Latitude">-14.822828684661</SimpleData>
+					<SimpleData name="Cantidad de BAPs del cliente">1 BAPs</SimpleData>
+					<SimpleData name="Cantidad de BAPs en poste">4 BAPs</SimpleData>
+					<SimpleData name="Existe subida lateral del cliente?">No</SimpleData>
+					<SimpleData name="Existe mufla de otro operador?">Ninguno</SimpleData>
+					<SimpleData name="Life Status">Planning</SimpleData>
+					<SimpleData name="Numero de poste">B9</SimpleData>
+					<SimpleData name="Distancia poste a construcción (m)">2</SimpleData>
+					<SimpleData name="Material del poste">Concreto</SimpleData>
+					<SimpleData name="Existe avenida o calle?">Avenida Doble via</SimpleData>
+					<SimpleData name="Distancia desde el cable de energia al al primer cable de comunicaciones (m)">0.6</SimpleData>
+					<SimpleData name="Status">Valid</SimpleData>
+					<SimpleData name="Altura de poste (m)">11</SimpleData>
+					<SimpleData name="Propietario del poste">Electric</SimpleData>
+					<SimpleData name="Distancia poste a calle/avenida (m)">0</SimpleData>
+					<SimpleData name="Longitude">-64.901157896965</SimpleData>
+					<SimpleData name="Existe transformador?">No</SimpleData>
+					<SimpleData name="Existe cruceta o raquetas?">Ninguno</SimpleData>
+					<SimpleData name="Rienda para poste">No requiere</SimpleData>
+					<SimpleData name="Brazo de extension">No requiere</SimpleData>
+					<SimpleData name="Tipos de cables de energia en el poste">Ambos</SimpleData>
+					<SimpleData name="GIS ID">1717879477830291456</SimpleData>
+					<SimpleData name="Existe NAP o mufla del cliente?">Ninguno</SimpleData>
+					<SimpleData name="Requerira cambio de nivel el nuevo cable?">No</SimpleData>
+					<SimpleData name="El cable de energia es enchaquetado?">Si</SimpleData>
+					<SimpleData name="Existe espacio para instalar NAP, JC?">Si</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.901157896965,-14.822828684661,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

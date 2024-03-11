@@ -106,8 +106,8 @@ def escribir_lectura_kml_a_txt(datos_leidos, archivo_salida_txt):
 
 def main():
     archivo_datos = 'data_nueva/datos_postes_nuevos.txt'
-    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/24-02-24 01.Diseño Final  ODN Villa Busch.kml'
-    archivo_kml_salida = 'data_nueva/postes_actualizados-VillaBush.kml'
+    archivo_kml_existente = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/Postes electricos2.kml'
+    archivo_kml_salida = 'data_nueva/postes_actualizados-Alborada-Uplink2.kml'
     archivo_resultados_txt = 'data_nueva/resultados_modificaciones.txt'
     archivo_lectura_txt = 'data_nueva/lectura_kml.txt'
     # Llamar a la función con el path del archivo de datos

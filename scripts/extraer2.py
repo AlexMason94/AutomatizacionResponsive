@@ -8,7 +8,7 @@ if not os.path.exists(directorio_data):
     os.makedirs(directorio_data)
 
 # Ruta al archivo Excel
-archivo_excel = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/Copia de 02.Planilla de tendido de postacion y ferreteria OLT Villa Busch 070224.xlsx'
+archivo_excel = 'C:/Users/mason/OneDrive/Documentos/Trabajo pasantias/Scripts/progresivas/docs/06-08-24Planilla_Uplink.xlsx'
 
 # Carga el archivo de Excel
 xls = pd.ExcelFile(archivo_excel)
@@ -20,7 +20,7 @@ datos = []
 patron_numerico = re.compile(r'^-?\d*\.?\d*$')
 
 for nombre_hoja in xls.sheet_names:
-    if nombre_hoja.startswith("R-") and nombre_hoja != "R-1.1":
+    if nombre_hoja.startswith("Uplink"):
         df = pd.read_excel(xls, sheet_name=nombre_hoja, header=None, skiprows=3)
         
         if df.shape[1] > 42:
